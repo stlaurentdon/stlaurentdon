@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonny @devs or streetcoder😉.
+- 👋 Hi, I’m St. Laurent Don or streetcoder😉.
 - 👀 I’m interested in becoming a fullstack software developer.
 - 🌱 I’m currently learning JavaScript and its various frameworks. 
 - 📙 Currently I am perfecting my backend skills using the MERN stack.
